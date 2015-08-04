@@ -9,4 +9,4 @@
 #needed_applications
 
 
-pacman -Syu xf86-video-intel xorg-xinit gnome-shell mousepad nemo gimp brasero r dconf gconf dock-cairo synapse xfce4-terminal banshee mirage ntfs-3g gnome-tweak-tool virtualbox firefox chromium gnome-calculator alsa-utils pulseaudio pavucontrol gnome-calcualtor transmission icedtea-web transmission-gtk gcc-fortran libreoffice-fresh pinta mirage gnome-system-monitor gdm gnome-shell-extensions 
+pacman -Syu xf86-video-intel xorg-xinit gnome-shell mousepad nemo gimp brasero r dconf gconf cairo-dock cairo-dock-plug-ins synapse xfce4-terminal banshee mirage ntfs-3g gnome-tweak-tool virtualbox firefox chromium gnome-calculator alsa-utils pulseaudio pavucontrol icedtea-web transmission-gtk gcc-fortran libreoffice-fresh pinta mirage gnome-system-monitor gdm gnome-shell-extensions 
