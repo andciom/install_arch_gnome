@@ -1,0 +1,12 @@
+# install_arch_gnome
+#Lighttable
+#nixnote
+#flash player plugin chromium
+#https://aur.archlinux.org/packages/chromium-pepper-flash/
+#r studio
+#x swipe
+#google web designer
+#needed_applications
+
+
+pacman -Syu xf86-video-intel xorg-xinit gnome-shell mousepad nemo gimp brasero r dconf gconf dock-cairo synapse xfce4-terminal banshee mirage ntfs-3g gnome-tweak-tool virtualbox firefox chromium gnome-calculator alsa-utils pulseaudio pavucontrol gnome-calcualtor transmission icedtea-web transmission-gtk gcc-fortran libreoffice-fresh pinta mirage gnome-system-monitor gdm gnome-shell-extensions 
